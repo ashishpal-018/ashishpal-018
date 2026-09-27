@@ -6,7 +6,7 @@
   * `SELECT * FROM chaos WHERE order = true;` (SQL Wizardry)
   * Summoning autonomous AI agents 🤖
   * Wrangling runaway datasets 🐍
-* **Current Quest:** Building AgenticAI GenAI apps that don't just hallucinate, but actually get things done.
+* **Current Quest:** Building AgenticAI , GenAI apps that don't just hallucinate, but actually get things done.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-pal-191465303/) 
 # 💻 Tech Stack:
